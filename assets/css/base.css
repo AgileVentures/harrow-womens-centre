@@ -19,14 +19,3 @@ ul {
 	margin: 0 10% 0 10%;
 	overflow: hidden;
 }
-
-ul li {
-	display: inline;
-	margin-right: 10px;
-	list-style-type: none;
-	float: left;
-}
-
-ul li a:hover {
-    opacity: .7;
-}
